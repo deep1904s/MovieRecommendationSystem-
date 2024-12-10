@@ -1,0 +1,20 @@
+//This is the output for User4
+
+
+Predicted ratings for User 4:
+Movie 0: 0.00
+Movie 1: 0.00
+Movie 2: 5.00
+Movie 3: 5.00
+Movie 4: 2.85
+
+Top 3 recommended movies for User 4:
+Movie 2 with predicted rating 5.00
+Movie 3 with predicted rating 5.00
+Movie 4 with predicted rating 2.85
+
+Mean Absolute Error (MAE): 0.6250
+Precision@3: 0.3333
+Recall@3: 0.3333
+
+Root Mean Square Error (RMSE): 1.2748
